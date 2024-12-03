@@ -1,0 +1,195 @@
+@font-face {
+    font-family: 'MI-icons';
+    src:  url('/css/fonts/MI-icons.eot');
+    src:  url('/css/fonts/MI-icons.eot#iefix') format('embedded-opentype'),
+      url('/css/fonts/MI-icons.ttf') format('truetype'),
+      url('/css/fonts/MI-icons.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  [class^="MI-icon-"], [class*=" MI-icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'MI-icons' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .MI-icon-AssignUserIcon:before {
+    content: "\e936";
+  }
+  .MI-icon-ReassignUserIcon:before {
+    content: "\e937";
+  }
+  .MI-icon-1:before {
+    content: "\e900";
+  }
+  .MI-icon-2:before {
+    content: "\e901";
+  }
+  .MI-icon-3:before {
+    content: "\e902";
+  }
+  .MI-icon-4:before {
+    content: "\e903";
+  }
+  .MI-icon-5:before {
+    content: "\e904";
+  }
+  .MI-icon-6:before {
+    content: "\e905";
+  }
+  .MI-icon-7:before {
+    content: "\e906";
+  }
+  .MI-icon-8:before {
+    content: "\e907";
+  }
+  .MI-icon-9:before {
+    content: "\e908";
+  }
+  .MI-icon-10:before {
+    content: "\e909";
+  }
+  .MI-icon-11:before {
+    content: "\e90a";
+  }
+  .MI-icon-12:before {
+    content: "\e90b";
+  }
+  .MI-icon-13:before {
+    content: "\e90c";
+  }
+  .MI-icon-14:before {
+    content: "\e90d";
+  }
+  .MI-icon-15:before {
+    content: "\e90e";
+  }
+  .MI-icon-16:before {
+    content: "\e90f";
+  }
+  .MI-icon-17:before {
+    content: "\e910";
+  }
+  .MI-icon-18:before {
+    content: "\e911";
+  }
+  .MI-icon-19:before {
+    content: "\e912";
+  }
+  .MI-icon-20:before {
+    content: "\e913";
+  }
+  .MI-icon-21:before {
+    content: "\e914";
+  }
+  .MI-icon-22:before {
+    content: "\e915";
+  }
+  .MI-icon-23:before {
+    content: "\e916";
+  }
+  .MI-icon-24:before {
+    content: "\e917";
+  }
+  .MI-icon-25:before {
+    content: "\e918";
+  }
+  .MI-icon-26:before {
+    content: "\e919";
+  }
+  .MI-icon-27:before {
+    content: "\e91a";
+  }
+  .MI-icon-28:before {
+    content: "\e91b";
+  }
+  .MI-icon-29:before {
+    content: "\e91c";
+  }
+  .MI-icon-30:before {
+    content: "\e91d";
+  }
+  .MI-icon-31:before {
+    content: "\e91e";
+  }
+  .MI-icon-32:before {
+    content: "\e91f";
+  }
+  .MI-icon-33:before {
+    content: "\e920";
+  }
+  .MI-icon-34:before {
+    content: "\e921";
+  }
+  .MI-icon-35:before {
+    content: "\e922";
+  }
+  .MI-icon-36:before {
+    content: "\e923";
+  }
+  .MI-icon-37:before {
+    content: "\e924";
+  }
+  .MI-icon-38:before {
+    content: "\e925";
+  }
+  .MI-icon-39:before {
+    content: "\e926";
+  }
+  .MI-icon-40:before {
+    content: "\e927";
+  }
+  .MI-icon-41:before {
+    content: "\e928";
+  }
+  .MI-icon-42:before {
+    content: "\e929";
+  }
+  .MI-icon-43:before {
+    content: "\e92a";
+  }
+  .MI-icon-44:before {
+    content: "\e92b";
+  }
+  .MI-icon-45:before {
+    content: "\e92c";
+  }
+  .MI-icon-46:before {
+    content: "\e92d";
+  }
+  .MI-icon-47:before {
+    content: "\e92e";
+  }
+  .MI-icon-48:before {
+    content: "\e92f";
+  }
+  .MI-icon-49:before {
+    content: "\e930";
+  }
+  .MI-icon-50:before {
+    content: "\e931";
+  }
+  .MI-icon-51:before {
+    content: "\e932";
+  }
+  .MI-icon-52:before {
+    content: "\e933";
+  }
+  .MI-icon-53:before {
+    content: "\e934";
+  }
+  .MI-icon-54:before {
+    content: "\e935";
+  }
+  
